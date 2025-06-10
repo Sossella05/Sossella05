@@ -6,22 +6,6 @@ Me chamo Bruno Sossella, tenho 19 anos e sou natural de Toledo, Paraná. Atualme
 
 Estou cursando Engenharia de Software na FAG (com previsão de conclusão em 2026) e Administração de Empresas na Unicesumar (conclusão prevista para 2028). Tenho paixão por tecnologia e estou sempre em busca de aprendizado contínuo. Já concluí diversos cursos na área de programação, incluindo HTML, CSS, JavaScript, Python, Java, GitHub, C++ e Banco de Dados.
 
-<p align="left">
-    <a href="https://github.com/Sossella05?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Sossella05?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Sossella05?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Sossella05?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 ### 🤖 Linguagens e Tecnologias
