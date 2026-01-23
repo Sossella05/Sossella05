@@ -1,7 +1,5 @@
 #👨🏻‍💻 Bruno Sossella
 
-**`Futuro Desenvolvedor`**
-
 Sou estudante de Engenharia de Software, com atuação prática em operações digitais, sistemas e análise de dados aplicados a negócios. Tenho experiência em ambientes corporativos e empresariais, onde desenvolvi senso de responsabilidade, organização e pensamento analítico.
 
 Atualmente, atuo na Sossella Joias, sendo responsável pela estruturação e gestão do e-commerce, manutenção de sistemas da loja virtual, análise de desempenho de vendas e apoio à tomada de decisões estratégicas. Nesse contexto, trabalho diretamente com processos digitais, dados e integração entre tecnologia e negócio, sempre buscando eficiência e melhoria contínua.
