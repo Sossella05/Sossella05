@@ -2,9 +2,13 @@
 
 **`Futuro Desenvolvedor`**
 
-Me chamo Bruno Sossella, tenho 19 anos e sou natural de Toledo, Paraná. Atualmente, trabalho no Banco Itaú, onde atuo com atendimento ao cliente e apoio administrativo. Além disso, também sou gestor de e-commerce na Sossella Joias, trabalhando com desenvolvimento e manutenção da loja virtual, redes sociais e Marketplaces.
+Sou estudante de Engenharia de Software, com atuação prática em operações digitais, sistemas e análise de dados aplicados a negócios. Tenho experiência em ambientes corporativos e empresariais, onde desenvolvi senso de responsabilidade, organização e pensamento analítico.
 
-Estou cursando Engenharia de Software na FAG (com previsão de conclusão em 2026) e Administração de Empresas na Unicesumar (conclusão prevista para 2028). Tenho paixão por tecnologia e estou sempre em busca de aprendizado contínuo. Já concluí diversos cursos na área de programação, incluindo HTML, CSS, JavaScript, Python, Java, GitHub, C++ e Banco de Dados.
+Atualmente, atuo na Sossella Joias, sendo responsável pela estruturação e gestão do e-commerce, manutenção de sistemas da loja virtual, análise de desempenho de vendas e apoio à tomada de decisões estratégicas. Nesse contexto, trabalho diretamente com processos digitais, dados e integração entre tecnologia e negócio, sempre buscando eficiência e melhoria contínua.
+
+Também tive experiência no Banco Itaú, onde atuei como Jovem Aprendiz em rotinas administrativas e atendimento ao cliente, vivenciando um ambiente corporativo de alta exigência, com foco em processos, organização e conformidade.
+
+Sou movido por aprendizado contínuo e pela aplicação prática da tecnologia. Tenho interesse em desenvolvimento de sistemas, análise de dados e soluções digitais escaláveis, especialmente em contextos onde a tecnologia gera impacto real no negócio. Busco evoluir tecnicamente de forma consistente, unindo visão estratégica e execução bem fundamentada.
 
 
 ---
