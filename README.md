@@ -4,7 +4,7 @@ Sou estudante de Engenharia de Software, com atuação prática em operações d
 
 Atualmente, atuo na Sossella Joias, sendo responsável pela estruturação e gestão do e-commerce, manutenção de sistemas da loja virtual, análise de desempenho de vendas e apoio à tomada de decisões estratégicas. Nesse contexto, trabalho diretamente com processos digitais, dados e integração entre tecnologia e negócio, sempre buscando eficiência e melhoria contínua.
 
-Também tive experiência no Banco Itaú, onde atuei como Jovem Aprendiz em rotinas administrativas e atendimento ao cliente, vivenciando um ambiente corporativo de alta exigência, com foco em processos, organização e conformidade.
+Também tive experiência no Banco Itaú, onde atuei como Estagiário em rotinas administrativas e atendimento ao cliente, vivenciando um ambiente corporativo de alta exigência, com foco em processos, organização e conformidade.
 
 Sou movido por aprendizado contínuo e pela aplicação prática da tecnologia. Tenho interesse em desenvolvimento de sistemas, análise de dados e soluções digitais escaláveis, especialmente em contextos onde a tecnologia gera impacto real no negócio. Busco evoluir tecnicamente de forma consistente, unindo visão estratégica e execução bem fundamentada.
 
